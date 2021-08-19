@@ -1,5 +1,5 @@
 # client
-
+Frontend for eCommerce site project
 ## Project setup
 ```
 npm install
