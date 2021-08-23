@@ -96,8 +96,8 @@ export default {
     onSubmit(evt) {
       evt.preventDefault();
       const payload = {
-        email: 'Copnovelist@gmail.com',
-        password: 'testpw',
+        email: this.form.email,
+        password: this.form.password,
       };
       this.checkLogin(payload);
       this.$router.push({ name: 'Home' });
