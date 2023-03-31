@@ -1,26 +1,5 @@
-# client
-Frontend for My First eCommerce site project (Version 1.0)
+# eCommerceSite
+Frontend for My First eCommerce site project (Version 1.0) using Vue.js, Flask, and SQLite.
+Since then, I have created Version 2.0 using Django, React, and SQL, which is showcased at https://youtu.be/4g4KoMlEKfE,
+followed by Version 3.0 built with NextJS and MongoDB, which is currently live deployed https://wish-shop.vercel.app/.
 
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
