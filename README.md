@@ -1,5 +1,7 @@
 # client
-Frontend for eCommerce site project
+Frontend for My First eCommerce site project (Version 1.0)
+
+
 ## Project setup
 ```
 npm install
